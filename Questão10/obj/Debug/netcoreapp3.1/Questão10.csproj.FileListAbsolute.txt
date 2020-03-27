@@ -1,0 +1,13 @@
+D:\Repo Git\Respostas-lista-2\Questão10\bin\Debug\netcoreapp3.1\Questão10.exe
+D:\Repo Git\Respostas-lista-2\Questão10\bin\Debug\netcoreapp3.1\Questão10.deps.json
+D:\Repo Git\Respostas-lista-2\Questão10\bin\Debug\netcoreapp3.1\Questão10.runtimeconfig.json
+D:\Repo Git\Respostas-lista-2\Questão10\bin\Debug\netcoreapp3.1\Questão10.runtimeconfig.dev.json
+D:\Repo Git\Respostas-lista-2\Questão10\bin\Debug\netcoreapp3.1\Questão10.dll
+D:\Repo Git\Respostas-lista-2\Questão10\bin\Debug\netcoreapp3.1\Questão10.pdb
+D:\Repo Git\Respostas-lista-2\Questão10\obj\Debug\netcoreapp3.1\Questão10.csprojAssemblyReference.cache
+D:\Repo Git\Respostas-lista-2\Questão10\obj\Debug\netcoreapp3.1\Questão10.csproj.CoreCompileInputs.cache
+D:\Repo Git\Respostas-lista-2\Questão10\obj\Debug\netcoreapp3.1\Questão10.AssemblyInfoInputs.cache
+D:\Repo Git\Respostas-lista-2\Questão10\obj\Debug\netcoreapp3.1\Questão10.AssemblyInfo.cs
+D:\Repo Git\Respostas-lista-2\Questão10\obj\Debug\netcoreapp3.1\Questão10.dll
+D:\Repo Git\Respostas-lista-2\Questão10\obj\Debug\netcoreapp3.1\Questão10.pdb
+D:\Repo Git\Respostas-lista-2\Questão10\obj\Debug\netcoreapp3.1\Questão10.genruntimeconfig.cache
