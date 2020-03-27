@@ -51,7 +51,7 @@ Aluno: Fabricio Henrique Matricula: 1924070026
 
    Construa um algoritmo que solicite o nome e a idade de um atleta e imprima a sua categoria.  (1 PONTO)
 
-8. Elabore um programa em C# que calcular **![equation](http://www.sciweavers.org/upload/Tex2Img_1585310455/render.png)**, supondo **X** um número qualquer e n inteiro não negativo. Considerar não disponível a função de potenciação.(1 PONTO)
+8. Elabore um programa em C# que calcular **X^n**, supondo **X** um número qualquer e n inteiro não negativo. Considerar não disponível a função de potenciação.(1 PONTO)
 
 9. Elabore um programa que imprima todos os números pares de 1 até 100. (1 PONTO)
 
