@@ -8,46 +8,50 @@ namespace Questão6
         static void Main (string[] args)
         {
             int[] lados = new int[3];
-            int[] teste = new int[] { 5, 3, 4 };
-            // for (int i = 0; i < lados.Length; i++)
-            // {
-            //     Console.Write ($"Digite o {i + 1}º lado: ");
-            //     lados[i] = int.Parse (Console.ReadLine ());
-            // }
-            System.Console.WriteLine (TesteTrianguloIsoceles (lados));
+            for (int i = 0; i < lados.Length; i++)
+            {
+                Console.Write ($"Digite o {i + 1}º lado: ");
+                lados[i] = int.Parse (Console.ReadLine ());
+            }
+            System.Console.WriteLine (TesteTriangulo (lados));
         }
 
-        // static string TesteTriangulo (int[] lados)
-        // {
-        //     if (TesteTrianguloIsoceles (lados)) return "Triangulo Isoceles";
-        //     else if (TesteTrianguloEquilatero (lados)) return "Triangulo Equilatero";
-        //     else if (TesteTrianguloEscaleno (lados)) return "Triangulo Escaleno";
-        //     else return "Nao e um triangulo";
-        // }
-
-        static int TesteTrianguloIsoceles (int[] lados)
+        static string TesteTriangulo (int[] lados)
         {
-            var test = lados.Distinct ().OrderBy (n => n == lados[n++]);
-           return test.Count ();
+            if (TesteTrianguloIsoceles (lados)) return "Triangulo Isoceles";
+            else if (TesteTrianguloEquilatero (lados)) return "Triangulo Equilatero";
+            else if (TesteTrianguloEscaleno (lados)) return "Triangulo Escaleno";
+            else return "Nao e um triangulo";
+        }
+
+        static bool TesteTrianguloIsoceles (int[] lados)
+        {
+            int ladoMax = 0;
+            int ladoMin = 0;
+            for (int i = 0; i < lados.Length; i++)
+            {
+                if (lados[i] == lados.Max ()) ladoMax++;
+                if (lados[i] == lados.Min ()) ladoMin++;
+            }
+            return ladoMax == 2 || ladoMin == 2 ? true : false;
         }
         static bool TesteTrianguloEquilatero (int[] lados)
         {
-            List<int> teste = new List<int> ();
-            foreach (var item in lados.Distinct ().OrderBy (n => n))
+            int qtdLados = 0;
+            for (int i = 0; i < lados.Length; i++)
             {
-                teste.Add (item);
+                if (lados[i] == lados.Max ()) qtdLados++;
             }
-            return teste.Count == 3 ? true : false;
+            return qtdLados == 3 ? true : false;
         }
 
         static bool TesteTrianguloEscaleno (int[] lados)
         {
-            List<int> teste = new List<int> ();
-            foreach (var item in lados.Distinct ().OrderBy (n => n))
+            foreach (var item in lados.Where (n => lados.Distinct ().Count () == 1))
             {
-                teste.Add (item);
+                return false;
             }
-            return teste.Count == 0 ? true : false;
+            return true;
         }
     }
 }
