@@ -1,0 +1,13 @@
+C:\Users\fahod\Documents\Programas\C#\lista_2\Questão2\bin\Debug\netcoreapp3.1\Questão2.exe
+C:\Users\fahod\Documents\Programas\C#\lista_2\Questão2\bin\Debug\netcoreapp3.1\Questão2.deps.json
+C:\Users\fahod\Documents\Programas\C#\lista_2\Questão2\bin\Debug\netcoreapp3.1\Questão2.runtimeconfig.json
+C:\Users\fahod\Documents\Programas\C#\lista_2\Questão2\bin\Debug\netcoreapp3.1\Questão2.runtimeconfig.dev.json
+C:\Users\fahod\Documents\Programas\C#\lista_2\Questão2\bin\Debug\netcoreapp3.1\Questão2.dll
+C:\Users\fahod\Documents\Programas\C#\lista_2\Questão2\bin\Debug\netcoreapp3.1\Questão2.pdb
+C:\Users\fahod\Documents\Programas\C#\lista_2\Questão2\obj\Debug\netcoreapp3.1\Questão2.csprojAssemblyReference.cache
+C:\Users\fahod\Documents\Programas\C#\lista_2\Questão2\obj\Debug\netcoreapp3.1\Questão2.csproj.CoreCompileInputs.cache
+C:\Users\fahod\Documents\Programas\C#\lista_2\Questão2\obj\Debug\netcoreapp3.1\Questão2.AssemblyInfoInputs.cache
+C:\Users\fahod\Documents\Programas\C#\lista_2\Questão2\obj\Debug\netcoreapp3.1\Questão2.AssemblyInfo.cs
+C:\Users\fahod\Documents\Programas\C#\lista_2\Questão2\obj\Debug\netcoreapp3.1\Questão2.dll
+C:\Users\fahod\Documents\Programas\C#\lista_2\Questão2\obj\Debug\netcoreapp3.1\Questão2.pdb
+C:\Users\fahod\Documents\Programas\C#\lista_2\Questão2\obj\Debug\netcoreapp3.1\Questão2.genruntimeconfig.cache
