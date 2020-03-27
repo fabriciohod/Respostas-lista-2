@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\fahod\\Documents\\Programas\\C#\\lista_2\\Questão6\\Questão6.csproj",
+      "projectUniqueName": "D:\\Repo Git\\Respostas-lista-2\\Questão6\\Questão6.csproj",
       "projectName": "Questão6",
-      "projectPath": "C:\\Users\\fahod\\Documents\\Programas\\C#\\lista_2\\Questão6\\Questão6.csproj",
+      "projectPath": "D:\\Repo Git\\Respostas-lista-2\\Questão6\\Questão6.csproj",
       "packagesPath": "C:\\Users\\fahod\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\fahod\\Documents\\Programas\\C#\\lista_2\\Questão6\\obj\\",
+      "outputPath": "D:\\Repo Git\\Respostas-lista-2\\Questão6\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\fahod\\AppData\\Roaming\\NuGet\\NuGet.Config"
